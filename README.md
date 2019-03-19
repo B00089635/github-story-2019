@@ -1,5 +1,7 @@
 # github-story-2019
 
+This repository is to show off the different uses of Github/Git as well as showing the Github Story
+
 # Chapters
 
 [Chapter 01](https://b00089635.github.io/github-story-2019/chapter01.html)
