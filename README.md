@@ -5,7 +5,9 @@ This repository is to show off the different uses of Github/Git as well as showi
 # Chapters
 
 [Chapter 01](https://b00089635.github.io/github-story-2019/chapter01.html)
+
 [Chapter 02](https://b00089635.github.io/github-story-2019/chapter02.html)
+
 [Chapter 03](https://b00089635.github.io/github-story-2019/chapter03.html)
 
 ## Welcome to GitHub Pages
