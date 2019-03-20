@@ -1,5 +1,8 @@
 # github-story-2019
 
+An original story based on the non-specified theme “Spring”.
+
+
 This repository is to show off the different uses of Github/Git as well as showing the Github Story
 
 # Chapters
