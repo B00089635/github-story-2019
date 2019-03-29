@@ -15,10 +15,10 @@ This repository is to show off the different uses of Github/Git as well as showi
 
 # Releases
 
-[V1.0](https://b00089635.github.io/github-story-2019/chapter1.html)
+[V1.0](https://github.com/B00089635/github-story-2019/releases/tag/v1.0)
 
-[V2.0](https://b00089635.github.io/github-story-2019/chapter1.html)
+[V2.0](https://github.com/B00089635/github-story-2019/releases/tag/v2.0)
 
-[V3.0]
+[V3.0](https://github.com/B00089635/github-story-2019/releases/tag/v3.0)
 
-[V3.1]
+[V3.1](https://github.com/B00089635/github-story-2019/releases/tag/v3.1)
